@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Zadanie 2 - część II</string>
+    <string name="name_surname">Bartłomiej Słowik</string>
+    <string name="info">Aplikacja demonstracyjna wersja 1.0</string>
+    <string name="introduce_yourself">Przedstaw się</string>
+    <string name="title_activity_introduce_yourself">IntroduceYourself</string>
+    <string name="name">Podaj imię: </string>
+    <string name="surname">Podaj nazwisko: </string>
+    <string name="send_name_surname">Wyślij dane</string>
+    <string name="summary">Podsumowanie</string>
+    <string name="back_to_last_activity">Powrót</string>
+    <string name="description_introduce_yourself">Okno z układem LinearLayout z ustawieniem
+        orientacji na pionową, które zawiera dodatkowe układy LinearLayout z ustawieniem
+        orientacji na poziomą
+    </string>
+    <string name="description_receive_data">Okno z układem RelativeLayout realizujące różne możliwośći pozycjonowania</string>
+    <string name="well_being">Jak się czujesz?</string>
+    <string name="description_well_being">Okno z układem GridLayout</string>
+    <string name="good">Dobrze</string>
+    <string name="bad">Źle</string>
+    <string name="how_old">A ile masz lat?</string>
+</resources>
